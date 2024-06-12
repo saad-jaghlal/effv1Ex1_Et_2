@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">switcher</string>
+    <string name="titre">Pharmacies de garde</string>
+    <string name="quartier">Quartier</string>
+</resources>
